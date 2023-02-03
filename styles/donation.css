@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+}
+.head-c {
+    background-image: url('/images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px 100px;
+
+}
+
+.banner{
+    margin: 200px 200px;
+    
+}
+
+.help {
+    color:white;
+    font-weight: 700px;
+    text-align: center;
+    font-size: 65px;
+   
+
+}
+
+.description {
+    font-weight: 400;
+    font-size: 18px;
+    color:white;
+    text-align: center;
+    margin-top:20px;
+    
+}
+
+.button-class {
+    background: #FF5959;
+    border-radius: 5px;
+    border:0;
+    color:white;
+    font-weight: 600px;
+    font-size:20px;
+    font-family: 'Inter';
+    /* margin-top: 20px; */
+    padding:20px 15px;
+    margin:15px 400px;
+
+}
